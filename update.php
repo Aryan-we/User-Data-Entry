@@ -1,11 +1,6 @@
 <?php
 include "connect.php";
-session_start();
-/*if(!isset($_SESSION['userdata'])){
-header("location:display.php");
-}*/
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
