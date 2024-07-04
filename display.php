@@ -13,19 +13,6 @@ body{
     margin:0 auto;
     
 }
-input{
-    display: block;
-    margin: 10px;
-    padding: 10px;
-    width: 90%;
-    border: none;
-    outline: none;
-}
-.btn{
-    width:95%;
-    background-color: green;
-    cursor: pointer;
-}
 th,td{
     border:1px solid;
     padding: 5px;
